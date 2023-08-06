@@ -1,0 +1,48 @@
+body{
+    background-color: rgba(255, 116, 204, 0.553);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#nombre{
+    text-align: center;
+}
+
+#top{
+    display: flex;
+    justify-content: space-around;
+}
+
+.enlaces{
+    list-style: none;
+}
+
+.enlaces li a{
+        text-decoration: none;
+    color: black;
+    padding: 5px;
+    }
+
+.enlaces li{
+    padding-top: 50px;
+}
+
+.enlaces li a:hover{
+    background-color: rgb(235, 125, 211);
+color: rgba(204, 4, 164, 0.988);
+}
+
+.tabla tr td {
+    padding: 20px;
+}
+
+.inputform {
+    background-color: rgb(255, 186, 255);
+}
+
+.caja {
+    width: 30%;
+    }
+
+.buttom{
+    text-align: center;
+}
